@@ -8,4 +8,4 @@
 
 - Thats it. You can generate images using OpenApi's ML model
 
-You can view the Demo here - https://openai-image-generation-chi.vercel.app/
+You can view the Demo here - https://infinitygen.vercel.com
